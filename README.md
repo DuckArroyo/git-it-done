@@ -2,7 +2,6 @@
 
 Bootcamp Module 6
 
-
 ## Links
 
 [Github Pages](https://duckarroyo.github.io/git-it-done/)
